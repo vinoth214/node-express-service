@@ -1,0 +1,24 @@
+{
+  "name": "vinoth_demo",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "~1.15.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "mongodb": "^2.2.33",
+    "nodemailer": "^2.6.0",
+    "nodemailer-smtp-transport": "^2.7.2",
+    "pg": "*",
+    "random-js": "^1.0.8",
+    "redis": "^2.6.2",
+    "serve-favicon": "~2.3.0",
+    "squel": "*"
+  }
+}
